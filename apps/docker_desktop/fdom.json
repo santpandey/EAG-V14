@@ -1,0 +1,1918 @@
+{
+  "app_name": "docker_desktop",
+  "loaded": false,
+  "creation_timestamp": "2025-06-25T17:24:44.806680",
+  "navigation_tree": {},
+  "states": {
+    "root": {
+      "id": "root",
+      "parent": null,
+      "trigger_node": null,
+      "trigger_element": "initial_state",
+      "breadcrumb": "root",
+      "image": "D:\\code\\EAG-V14\\apps\\docker_desktop\\screenshots\\S001.png",
+      "creation_timestamp": "2025-06-25T17:50:56.224228",
+      "analysis_time": 0,
+      "total_elements": 58,
+      "nodes": {
+        "H0_1": {
+          "bbox": [
+            19,
+            55,
+            189,
+            117
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H0",
+          "status": "pending"
+        },
+        "H0_2": {
+          "bbox": [
+            184,
+            55,
+            372,
+            115
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H0",
+          "status": "pending"
+        },
+        "H0_3": {
+          "bbox": [
+            365,
+            56,
+            604,
+            115
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H0",
+          "status": "pending"
+        },
+        "H1_1": {
+          "bbox": [
+            0,
+            876,
+            11,
+            905
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H1",
+          "status": "pending"
+        },
+        "H2_1": {
+          "bbox": [
+            14,
+            9,
+            258,
+            36
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H2",
+          "status": "pending"
+        },
+        "H3_1": {
+          "bbox": [
+            136,
+            203,
+            288,
+            244
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H3",
+          "status": "pending"
+        },
+        "H3_2": {
+          "bbox": [
+            146,
+            251,
+            272,
+            278
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H3",
+          "status": "pending"
+        },
+        "H4_1": {
+          "bbox": [
+            31,
+            328,
+            134,
+            349
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H4",
+          "status": "pending"
+        },
+        "H6_1": {
+          "bbox": [
+            37,
+            589,
+            118,
+            617
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H6",
+          "status": "pending"
+        },
+        "H7_1": {
+          "bbox": [
+            148,
+            350,
+            341,
+            377
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H7",
+          "status": "pending"
+        },
+        "H7_2": {
+          "bbox": [
+            38,
+            391,
+            135,
+            416
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H7",
+          "status": "pending"
+        },
+        "H7_3": {
+          "bbox": [
+            146,
+            391,
+            341,
+            418
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H7",
+          "status": "pending"
+        },
+        "H8_1": {
+          "bbox": [
+            138,
+            133,
+            526,
+            181
+          ],
+          "g_icon_name": "Docker Desktop",
+          "g_brief": "Input field to enter the desktop name",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H8",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "H9_1": {
+          "bbox": [
+            148,
+            592,
+            253,
+            620
+          ],
+          "g_icon_name": "Read-only",
+          "g_brief": "Checkbox to set the file to read-only mode",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H9",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "H9_2": {
+          "bbox": [
+            261,
+            587,
+            356,
+            628
+          ],
+          "g_icon_name": "Hidden",
+          "g_brief": "Checkbox to hide the file",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H9",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "H10_1": {
+          "bbox": [
+            37,
+            311,
+            111,
+            338
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H10",
+          "status": "pending"
+        },
+        "H10_2": {
+          "bbox": [
+            37,
+            350,
+            82,
+            379
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H10",
+          "status": "pending"
+        },
+        "H10_3": {
+          "bbox": [
+            149,
+            311,
+            381,
+            336
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H10",
+          "status": "pending"
+        },
+        "H11_1": {
+          "bbox": [
+            246,
+            815,
+            366,
+            854
+          ],
+          "g_icon_name": "OK",
+          "g_brief": "Confirms the settings and closes the dialog",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H11",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "H11_2": {
+          "bbox": [
+            370,
+            814,
+            489,
+            854
+          ],
+          "g_icon_name": "Cancel",
+          "g_brief": "Discards the changes and closes the dialog",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H11",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "H11_3": {
+          "bbox": [
+            491,
+            814,
+            609,
+            855
+          ],
+          "g_icon_name": "Apply",
+          "g_brief": "Applies the current settings",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H11",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "H12_1": {
+          "bbox": [
+            406,
+            587,
+            524,
+            625
+          ],
+          "g_icon_name": "Advanced...",
+          "g_brief": "Opens advanced options",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H12",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "H13_1": {
+          "bbox": [
+            410,
+            920,
+            462,
+            969
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H13",
+          "status": "pending"
+        },
+        "H13_2": {
+          "bbox": [
+            478,
+            921,
+            520,
+            966
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H13",
+          "status": "pending"
+        },
+        "H14_1": {
+          "bbox": [
+            486,
+            926,
+            593,
+            959
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H14",
+          "status": "pending"
+        },
+        "H15_1": {
+          "bbox": [
+            712,
+            920,
+            801,
+            968
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H15",
+          "status": "pending"
+        },
+        "H15_2": {
+          "bbox": [
+            812,
+            918,
+            865,
+            977
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H15",
+          "status": "pending"
+        },
+        "H15_3": {
+          "bbox": [
+            875,
+            916,
+            929,
+            977
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H15",
+          "status": "pending"
+        },
+        "H15_4": {
+          "bbox": [
+            939,
+            912,
+            999,
+            978
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H15",
+          "status": "pending"
+        },
+        "H15_5": {
+          "bbox": [
+            1008,
+            916,
+            1059,
+            977
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H15",
+          "status": "pending"
+        },
+        "H16_1": {
+          "bbox": [
+            1080,
+            921,
+            1124,
+            978
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H16",
+          "status": "pending"
+        },
+        "H17_1": {
+          "bbox": [
+            1325,
+            913,
+            1371,
+            979
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H17",
+          "status": "pending"
+        },
+        "H17_2": {
+          "bbox": [
+            1375,
+            920,
+            1431,
+            976
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H17",
+          "status": "pending"
+        },
+        "H17_3": {
+          "bbox": [
+            1443,
+            925,
+            1476,
+            965
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H17",
+          "status": "pending"
+        },
+        "H17_4": {
+          "bbox": [
+            1478,
+            925,
+            1513,
+            961
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H17",
+          "status": "pending"
+        },
+        "H17_5": {
+          "bbox": [
+            1515,
+            925,
+            1549,
+            960
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H17",
+          "status": "pending"
+        },
+        "H18_1": {
+          "bbox": [
+            1446,
+            931,
+            1549,
+            956
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H18",
+          "status": "pending"
+        },
+        "H19_1": {
+          "bbox": [
+            1566,
+            942,
+            1667,
+            967
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H19",
+          "status": "pending"
+        },
+        "H20_1": {
+          "bbox": [
+            1615,
+            918,
+            1669,
+            945
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H20",
+          "status": "pending"
+        },
+        "H21_1": {
+          "bbox": [
+            1667,
+            918,
+            1706,
+            971
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H21",
+          "status": "pending"
+        },
+        "V0_1": {
+          "bbox": [
+            0,
+            42,
+            12,
+            71
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "status": "pending"
+        },
+        "V0_2": {
+          "bbox": [
+            0,
+            73,
+            11,
+            104
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "status": "pending"
+        },
+        "V0_3": {
+          "bbox": [
+            0,
+            108,
+            11,
+            137
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "status": "pending"
+        },
+        "V0_4": {
+          "bbox": [
+            0,
+            140,
+            11,
+            170
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "status": "pending"
+        },
+        "V0_5": {
+          "bbox": [
+            0,
+            173,
+            11,
+            202
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "status": "pending"
+        },
+        "V0_6": {
+          "bbox": [
+            0,
+            205,
+            11,
+            237
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "status": "pending"
+        },
+        "V0_7": {
+          "bbox": [
+            0,
+            238,
+            11,
+            269
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "status": "pending"
+        },
+        "V0_8": {
+          "bbox": [
+            0,
+            270,
+            12,
+            293
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "status": "pending"
+        },
+        "V0_9": {
+          "bbox": [
+            0,
+            301,
+            11,
+            325
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "status": "pending"
+        },
+        "V1_1": {
+          "bbox": [
+            25,
+            125,
+            104,
+            193
+          ],
+          "g_icon_name": "Docker Icon",
+          "g_brief": "Shows a docker icon",
+          "g_enabled": true,
+          "g_interactive": false,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V1",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "V1_2": {
+          "bbox": [
+            28,
+            204,
+            134,
+            245
+          ],
+          "g_icon_name": "Type of file:",
+          "g_brief": "Shows the type of the file",
+          "g_enabled": true,
+          "g_interactive": false,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V1",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "V1_3": {
+          "bbox": [
+            37,
+            251,
+            130,
+            277
+          ],
+          "g_icon_name": "Description:",
+          "g_brief": "Shows the description of the file",
+          "g_enabled": true,
+          "g_interactive": false,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V1",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "V5_1": {
+          "bbox": [
+            26,
+            444,
+            118,
+            485
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V5",
+          "status": "pending"
+        },
+        "V5_2": {
+          "bbox": [
+            30,
+            489,
+            134,
+            515
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V5",
+          "status": "pending"
+        },
+        "V5_3": {
+          "bbox": [
+            37,
+            531,
+            120,
+            557
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V5",
+          "status": "pending"
+        },
+        "V5_4": {
+          "bbox": [
+            148,
+            450,
+            320,
+            476
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V5",
+          "status": "pending"
+        },
+        "V5_5": {
+          "bbox": [
+            135,
+            488,
+            324,
+            517
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V5",
+          "status": "pending"
+        },
+        "V5_6": {
+          "bbox": [
+            148,
+            530,
+            323,
+            557
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V5",
+          "status": "pending"
+        }
+      }
+    },
+    "root_read-only": {
+      "id": "root_read-only",
+      "parent": "root",
+      "trigger_node": "root::H9_1",
+      "trigger_element": "Read-only",
+      "breadcrumb": "root>read-only",
+      "image": "D:\\code\\EAG-V14\\apps\\docker_desktop\\screenshots\\diffs\\root_to_processing_via_root__H9_1.png",
+      "creation_timestamp": "2025-06-26T11:48:48.154629",
+      "analysis_time": 12.17354965209961,
+      "total_elements": 15,
+      "nodes": {
+        "H0_1": {
+          "bbox": [
+            148,
+            141,
+            524,
+            184
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Read-only\\H0_1_None_unanalyzed_root_read-only.png"
+        },
+        "H1_1": {
+          "bbox": [
+            148,
+            586,
+            260,
+            624
+          ],
+          "g_icon_name": "Read-only",
+          "g_brief": "Toggles read-only mode",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H1",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Read-only\\H1_1_None_Read-only_root_read-only.png",
+          "autocaptioning": "done"
+        },
+        "H4_2": {
+          "bbox": [
+            151,
+            494,
+            316,
+            513
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H4",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Read-only\\H4_2_None_unanalyzed_root_read-only.png"
+        },
+        "V0_1": {
+          "bbox": [
+            148,
+            199,
+            279,
+            242
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Read-only\\V0_1_None_unanalyzed_root_read-only.png"
+        }
+      },
+      "exit_strategies": {
+        "root": {
+          "method": "click_coordinates",
+          "coordinates": [
+            175,
+            35
+          ],
+          "learned_from": "automatic_discovery",
+          "success_rate": 1.0,
+          "last_used": 1750918738.8392074,
+          "discovery_method": "safe_area_click"
+        }
+      }
+    },
+    "root_hidden": {
+      "id": "root_hidden",
+      "parent": "root",
+      "trigger_node": "root::H9_2",
+      "trigger_element": "Hidden",
+      "breadcrumb": "root>hidden",
+      "image": "D:\\code\\EAG-V14\\apps\\docker_desktop\\screenshots\\diffs\\root_to_processing_via_root__H9_2.png",
+      "creation_timestamp": "2025-06-26T11:49:14.731821",
+      "analysis_time": 5.427328109741211,
+      "total_elements": 2,
+      "nodes": {
+        "H0_1": {
+          "bbox": [
+            171,
+            590,
+            259,
+            619
+          ],
+          "g_icon_name": "Read-only",
+          "g_brief": "Toggles whether the object is read-only",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Hidden\\H0_1_None_Read-only_root_hidden.png",
+          "autocaptioning": "done"
+        },
+        "H0_2": {
+          "bbox": [
+            267,
+            590,
+            349,
+            619
+          ],
+          "g_icon_name": "Hidden",
+          "g_brief": "Toggles the visibility of an object",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Hidden\\H0_2_None_Hidden_root_hidden.png",
+          "autocaptioning": "done"
+        }
+      },
+      "exit_strategies": {
+        "root": {
+          "method": "click_coordinates",
+          "coordinates": [
+            175,
+            35
+          ],
+          "learned_from": "automatic_discovery",
+          "success_rate": 1.0,
+          "last_used": 1750918769.0575206,
+          "discovery_method": "safe_area_click"
+        }
+      }
+    },
+    "root_ok": {
+      "id": "root_ok",
+      "parent": "root",
+      "trigger_node": "root::H11_1",
+      "trigger_element": "OK",
+      "breadcrumb": "root>ok",
+      "image": "D:\\code\\EAG-V14\\apps\\docker_desktop\\screenshots\\diffs\\root_to_processing_via_root__H11_1.png",
+      "creation_timestamp": "2025-06-26T11:50:03.091777",
+      "analysis_time": 23.390985012054443,
+      "total_elements": 38,
+      "nodes": {
+        "H0_1": {
+          "bbox": [
+            39,
+            54,
+            190,
+            115
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\OK\\H0_1_None_unanalyzed_root_ok.png"
+        },
+        "H4_1": {
+          "bbox": [
+            41,
+            12,
+            256,
+            34
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H4",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\OK\\H4_1_None_unanalyzed_root_ok.png"
+        },
+        "H5_1": {
+          "bbox": [
+            130,
+            393,
+            152,
+            411
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H5",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\OK\\H5_1_None_unanalyzed_root_ok.png"
+        },
+        "H6_3": {
+          "bbox": [
+            39,
+            592,
+            118,
+            614
+          ],
+          "g_icon_name": "Attributes:",
+          "g_brief": "Label for the attributes section",
+          "g_enabled": true,
+          "g_interactive": false,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H6",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\OK\\H6_3_None_Attributes__root_ok.png",
+          "autocaptioning": "done"
+        },
+        "H8_1": {
+          "bbox": [
+            149,
+            214,
+            275,
+            235
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H8",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\OK\\H8_1_None_unanalyzed_root_ok.png"
+        },
+        "H13_1": {
+          "bbox": [
+            706,
+            381,
+            825,
+            403
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H13",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\OK\\H13_1_None_unanalyzed_root_ok.png"
+        },
+        "H14_1": {
+          "bbox": [
+            729,
+            443,
+            744,
+            463
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H14",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\OK\\H14_1_None_unanalyzed_root_ok.png"
+        },
+        "H15_1": {
+          "bbox": [
+            772,
+            519,
+            1106,
+            542
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H15",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\OK\\H15_1_None_unanalyzed_root_ok.png"
+        },
+        "H16_1": {
+          "bbox": [
+            965,
+            575,
+            1096,
+            618
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H16",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\OK\\H16_1_None_unanalyzed_root_ok.png"
+        },
+        "H16_2": {
+          "bbox": [
+            1101,
+            577,
+            1210,
+            618
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H16",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\OK\\H16_2_None_unanalyzed_root_ok.png"
+        },
+        "H17_1": {
+          "bbox": [
+            1185,
+            379,
+            1213,
+            405
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H17",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\OK\\H17_1_None_unanalyzed_root_ok.png"
+        },
+        "V0_1": {
+          "bbox": [
+            39,
+            124,
+            112,
+            196
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\OK\\V0_1_None_unanalyzed_root_ok.png"
+        },
+        "V0_2": {
+          "bbox": [
+            40,
+            213,
+            125,
+            236
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\OK\\V0_2_None_unanalyzed_root_ok.png"
+        },
+        "V0_3": {
+          "bbox": [
+            39,
+            253,
+            130,
+            274
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\OK\\V0_3_None_unanalyzed_root_ok.png"
+        },
+        "V2_1": {
+          "bbox": [
+            775,
+            437,
+            1183,
+            460
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V2",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\OK\\V2_1_None_unanalyzed_root_ok.png"
+        },
+        "V2_2": {
+          "bbox": [
+            774,
+            470,
+            1181,
+            494
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V2",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\OK\\V2_2_None_unanalyzed_root_ok.png"
+        },
+        "V3_1": {
+          "bbox": [
+            39,
+            452,
+            106,
+            474
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V3",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\OK\\V3_1_None_unanalyzed_root_ok.png"
+        },
+        "V3_2": {
+          "bbox": [
+            39,
+            492,
+            109,
+            514
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V3",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\OK\\V3_2_None_unanalyzed_root_ok.png"
+        }
+      }
+    }
+  },
+  "edges": [
+    {
+      "from": "root",
+      "to": "root_read-only",
+      "action": "click:H9_1",
+      "element_name": "Read-only",
+      "navigation": "root → root_read-only",
+      "timestamp": "2025-06-26T11:48:48.176476"
+    },
+    {
+      "from": "root",
+      "to": "root_hidden",
+      "action": "click:H9_2",
+      "element_name": "Hidden",
+      "navigation": "root → root_hidden",
+      "timestamp": "2025-06-26T11:49:14.731821"
+    },
+    {
+      "from": "root",
+      "to": "root_ok",
+      "action": "click:H11_1",
+      "element_name": "OK",
+      "navigation": "root → root_ok",
+      "timestamp": "2025-06-26T11:50:03.123636"
+    }
+  ],
+  "last_updated": "2025-06-26T11:50:03.125154",
+  "total_states": 4,
+  "exploration_stats": {
+    "pending_nodes": 81,
+    "explored_nodes": 1,
+    "non_interactive_nodes": 0,
+    "total_nodes": 64
+  }
+}

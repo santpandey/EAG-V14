@@ -1,0 +1,12 @@
+{
+  "app_name": "sublime_text",
+  "created_timestamp": "2025-06-26T17:19:21Z",
+  "fdom_creator_version": "1.0.0",
+  "exploration_status": "initialized",
+  "folder_structure": {
+    "screenshots": "screenshots",
+    "crops": "crops",
+    "diffs": "screenshots/diffs",
+    "templates": "templates"
+  }
+}
